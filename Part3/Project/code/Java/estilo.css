@@ -1,0 +1,47 @@
+
+
+
+time{float:left;}
+
+input[type=text]{font-family: Arial;
+	font-size: 19px;
+	color: black;}
+	
+nav {
+    font-family: Arial;
+	font-size: 20px;
+}
+
+select {
+    font-family: Arial;
+	font-size: 19px;
+	color: black;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+.button {
+    width: 20%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 2px 15px;
+    margin: 0px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+.button1 {
+    width: 20%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;}

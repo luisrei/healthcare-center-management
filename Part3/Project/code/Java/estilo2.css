@@ -1,0 +1,50 @@
+body {
+	
+    
+	background-color: #f2f2f2;
+	
+}
+
+
+#inputtxt {
+    width: 30%;
+    height: 25px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+#submit {
+    width: 15%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#submit:hover {
+    background-color: #45a049;
+}
+
+#mydiv {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 110px;
+}
+#myselect {
+    width: 30%;
+    height: 25px;
+    margin: 8px 0;
+    padding: 40px 20px;
+    border: none;
+    border-radius: 6px;
+    background-color: #f1f1f1;
+}
+
